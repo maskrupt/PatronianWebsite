@@ -34,6 +34,20 @@ npm run dev
 npm run build
 ```
 
+## Deployment
+
+### Cloudflare Pages
+This project is ready for deployment on **Cloudflare Pages**. 
+
+1. **Connect Repository**: Connect your GitHub repository to Cloudflare Pages.
+2. **Build Settings**:
+   - **Framework Preset**: `Vite`
+   - **Build Command**: `npm run build`
+   - **Build Output Directory**: `dist`
+3. **Environment Variables**: Ensure you are using Node.js 20 or higher (Set `NODE_VERSION` to `20` if necessary).
+
+The project includes a `_redirects` file in the `public` folder to ensure smooth navigation for the Vue Router SPA.
+
 ## Structure
 - `src/views/Home.vue`: Main landing page with interactive hero section.
 - `src/views/About.vue`: Detailed information about the persona.
