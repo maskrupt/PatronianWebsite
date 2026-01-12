@@ -58,7 +58,7 @@ import ThreeHero from '../components/ThreeHero.vue'
                  <!-- 
                     Anime Portrait 
                  -->
-                 <img src="../assets/home.png" 
+                 <img src="../assets/home.jpg" 
                       alt="Patronian Anime Portrait" 
                       class="w-full h-full object-cover opacity-80 group-hover:opacity-100 transition-opacity">
                  
