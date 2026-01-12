@@ -23,9 +23,8 @@
           <div class="space-y-4">
             <h4 class="text-xs uppercase tracking-[0.2em] text-patronian-gold font-bold">Social</h4>
             <ul class="space-y-2 text-sm text-gray-400">
-              <li><a href="#" class="hover:text-white transition-colors">Twitch</a></li>
-              <li><a href="#" class="hover:text-white transition-colors">GitHub</a></li>
-              <li><a href="#" class="hover:text-white transition-colors">X / Twitter</a></li>
+              <li><a href="https://kick.com/patronian" class="hover:text-white transition-colors">Kick</a></li>
+              <li><a href="https://github.com/maskrupt" class="hover:text-white transition-colors">GitHub</a></li>
             </ul>
           </div>
           <div class="space-y-4">
